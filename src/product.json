@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":"0.5",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81DnSfhgUtL.jpg"
+
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":"6",
+        "image":"https://mir-s3-cdn-cf.behance.net/project_modules/fs/5307ef37224391.57397a56d79da.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price":"400",
+        "image":"http://2.bp.blogspot.com/-N4srwf4dUBQ/TyMR-hyGhvI/AAAAAAAAAso/vNVOeGt_568/s1600/902nike-72.jpg"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":"40000",
+        "image":"https://w.forfun.com/fetch/32/32264e2c3b0c5deee8c98a4e91b64735.jpeg"
+    }
+
+]
